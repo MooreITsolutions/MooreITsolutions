@@ -9,21 +9,17 @@
 
 <h2>Certifications</h2>
 
-- [CompTia A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Microsoft 365 Fundamentals(MS-900)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [CompTia A+](https://www.credly.com/badges/5e906919-8997-42fd-ae5b-7ee72cd76229/public_url)
+- [Microsoft 365 Fundamentals(MS-900)](https://www.credly.com/badges/f6be8aa0-f55e-4a09-950e-47620a93ec84/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+
+[linkedin]: 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
