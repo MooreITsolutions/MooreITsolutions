@@ -12,5 +12,11 @@
 - [CompTia A+](https://www.credly.com/badges/5e906919-8997-42fd-ae5b-7ee72cd76229/public_url)
 - [Microsoft 365 Fundamentals(MS-900)](https://www.credly.com/badges/f6be8aa0-f55e-4a09-950e-47620a93ec84/public_url)
 
+<h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="mooresystemsolutions | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: linkedin.com/in/mooresystemsolutions
 
