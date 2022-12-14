@@ -1,11 +1,9 @@
 <h1>Hi, I'm Josh! 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Active Directory Homelab</b>
-  - [Praciting DS & Algos in Python](https://github.com/MooreITsolutions/Active-Directory-Lab)
-- <b>Nessus Vulnerability Management</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PC Upgrades</b>
+- [Active Directory Homelab](https://github.com/MooreITsolutions/Active-Directory-Lab)
+- [Nessus Vulnerability Management](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+- [PC Upgrades](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 
 
