@@ -3,7 +3,7 @@
 
 - [Active Directory Homelab](https://github.com/MooreITsolutions/Active-Directory-Lab)
 - [Nessus Vulnerability Management](https://github.com/MooreITsolutions/Active-Directory-Lab) <b><i></b></i>
-- [PC Upgrades](https://github.com/MooreITsolutions/Active-Directory-Lab)
+- [PC Upgrades](https://github.com/MooreITsolutions/PC-Upgrades)
 
 
 
