@@ -14,5 +14,5 @@
 
 <h2> 🤳🏾 Connect with me:</h2>
 
-- [Linkedin](linkedin.com/in/mooresystemsolutions)
+- [Linkedin](https://www.linkedin.com/in/mooresystemsolutions/)
 
